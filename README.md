@@ -1,11 +1,11 @@
 ## Project Description
 
-jQuery DateTimePicker Plugin is able to Choice the time on select options.
+jQuery umcDateTimePicker Plugin is able to choice the time on select options.
 
 ## Release History.
 
-- 2012/02/07 Just support option of select tag.
-- 2013/06/17 Move to github from codeplex.
+- 2012-02-07 Just support option of select tag.
+- 2013-06-17 Move to github from codeplex.
 
 ## Screenshot the umcDateTimePicker plugin.
 
