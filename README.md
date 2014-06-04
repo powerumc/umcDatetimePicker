@@ -1,3 +1,6 @@
+Junil Um  
+http://blog.powerumc.kr
+
 ## Project Description
 
 jQuery umcDateTimePicker Plugin is able to choice the time on select options.
